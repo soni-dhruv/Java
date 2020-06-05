@@ -1,2 +1,2 @@
 # Java
-Java Basics
+Java Basics for begineers
