@@ -1,0 +1,8 @@
+//MultiThreading
+Thread <- Inheritence <- Classes
+Runnable <- Interface <- Interface
+
+//Life Cycle of Thread
+1- Start -> start(),run()
+2- Interupt-> sleep(),suspend()
+3- Destroy

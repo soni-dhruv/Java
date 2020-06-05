@@ -1,0 +1,5 @@
+1- Abstract Method require abstract key word
+2- We cannot define body of method
+3- It should be present in abstract class
+4- When we have to use overiding concept we go with abstract method
+5- Abstract method always define in interfaces
